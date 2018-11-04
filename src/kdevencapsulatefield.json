@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Description": "EncapsulateField",
+        "Id": "encapsulatefield",
+        "Name": "EncapsulateField",
+        "Icon": "code-class",
+        "ServiceTypes": [
+            "KDevelop/Plugin"
+        ]
+    },
+    "X-KDevelop-Category": "Global",
+    "X-KDevelop-Mode": "GUI"
+}
